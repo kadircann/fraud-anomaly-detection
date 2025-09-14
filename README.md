@@ -120,3 +120,5 @@ Proje Credit Card Fraud Detection veri setini kullanır:
 - seaborn >= 0.11.0
 - numpy >= 1.21.0
 - requests >= 2.28.0
+
+![Açıklama metni](images/fig1.png)
