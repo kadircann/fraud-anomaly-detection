@@ -121,4 +121,9 @@ Proje Credit Card Fraud Detection veri setini kullanır:
 - numpy >= 1.21.0
 - requests >= 2.28.0
 
-![Açıklama metni](images/fig1.png)
+![](images/fig1.png)
+![](images/fig2.png)
+![](images/fig3.png)
+![](images/fig4.png)
+![](images/fig5.png)
+![](images/fig6.png)
